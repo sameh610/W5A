@@ -19,6 +19,11 @@ body {
   margin: 10px 15px 10px 0;
 }
 
+.heading {
+  text-align: center;
+}
+
+
 .navbar-brand {
   padding-top: 25px;
 }
